@@ -1,0 +1,6 @@
+# Dependencias necesarias; versiones pendientes de fijar tras ejecución completa.
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyterlab
