@@ -18,7 +18,7 @@ Análisis de tres regiones petroleras para estimar reservas mediante regresión 
 
 Caso académico de modelado de un proceso industrial. Incluye exploración y preparación de datos, comparación de modelos de regresión y validación cruzada para estudiar la recuperación de oro. El contexto empresarial corresponde al caso de estudio del bootcamp.
 
-[Proyecto - Sprint 12.ipynb](Proyecto%20-%20Sprint%2012.ipynb)
+[Ver presentación de recuperación de oro](oro_presentacion/README.md) · [Proyecto - Sprint 12.ipynb](Proyecto%20-%20Sprint%2012.ipynb)
 
 ### 3. Predicción de pedidos de taxis por hora
 
