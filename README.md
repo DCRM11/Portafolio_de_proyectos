@@ -12,7 +12,7 @@ Este portafolio reúne **12 notebooks formativos** desarrollados durante mi form
 
 Análisis de tres regiones petroleras para estimar reservas mediante regresión lineal y comparar rentabilidad y riesgo de inversión mediante remuestreo bootstrap. Integra conocimiento del negocio petrolero, evaluación predictiva con RMSE y análisis de incertidumbre.
 
-[Proyecto Sprint 11.ipynb](Proyecto%20Sprint%2011.ipynb)
+[Ver presentación del proyecto](pozos_presentacion/README.md) · [Proyecto Sprint 11.ipynb](Proyecto%20Sprint%2011.ipynb)
 
 ### 2. Predicción de recuperación de oro
 
