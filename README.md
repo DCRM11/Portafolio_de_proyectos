@@ -24,7 +24,7 @@ Caso académico de modelado de un proceso industrial. Incluye exploración y pre
 
 Análisis de demanda horaria con series temporales, construcción de variables y comparación de modelos de machine learning para pronosticar pedidos.
 
-[Proyecto Sprint 15.ipynb](Proyecto%20Sprint%2015.ipynb)
+[Ver presentación de demanda de taxis](taxis_presentacion/README.md) · [Proyecto Sprint 15.ipynb](Proyecto%20Sprint%2015.ipynb)
 
 ## Catálogo de casos de estudio
 
